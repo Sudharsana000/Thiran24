@@ -1,0 +1,9 @@
+.nav-header {
+    background-color: #e1f4fe;
+}
+
+.nav-header ul {
+    font-family: 'Poppins';
+    color: black;
+    font-weight: bold;
+}
